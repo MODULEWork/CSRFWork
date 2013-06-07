@@ -25,7 +25,9 @@ There are 2 methods available for you to interact with your cache.
 
 TOKEN
 -----
-```token()```
+
+
+	token()
 
 This method will return the token for the current and next request.
 
@@ -39,7 +41,8 @@ This will add a hidden input field to you form with the name ```csrf_token``` an
 
 CHECK
 -----
-```check($token)```
+
+	check($token)
 
 This method will check if a string matches the token generated in the **previous** request.
 
