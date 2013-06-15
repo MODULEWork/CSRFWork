@@ -1,7 +1,7 @@
 {
     "name": "modulework/csrfwork",
     "description": "A simple way of protecting forms regarding to CSRF",
-    "type": "module",
+    "type": "modulework-module",
     "license": "Apache 2.0",
     "authors": [
         {
